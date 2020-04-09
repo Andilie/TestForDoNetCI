@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/Andilie/f24a5287-7d11-4641-9ab5-3cc16f7cbf29/5b1ac066-e3c3-42a2-bc55-718d754c6a84/_apis/work/boardbadge/4d36c3e2-1e2e-4980-9113-438816b14b61)](https://dev.azure.com/Andilie/f24a5287-7d11-4641-9ab5-3cc16f7cbf29/_boards/board/t/5b1ac066-e3c3-42a2-bc55-718d754c6a84/Microsoft.RequirementCategory)
 # TestForDoNetCI
